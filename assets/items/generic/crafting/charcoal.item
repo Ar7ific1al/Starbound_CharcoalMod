@@ -1,0 +1,8 @@
+{
+  "itemName" : "charcoal",
+  "rarity" : "Common",
+  "inventoryIcon" : "charcoal.png",
+  "description" : "Charcoal made from burning unrefined wood. Just as good as coal.",
+  "shortdescription" : "Charcoal",
+  "fuelAmount" : 2
+}
